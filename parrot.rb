@@ -2,5 +2,6 @@
 # returns the phrase
 
 def parrot(arg="Squawk!")
-   arg
+  puts arg
+  return arg
 end 
